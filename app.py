@@ -15,7 +15,7 @@ st.write("내 사진만 올리면 AI가 랜덤으로 멋진 정장 템플릿을 
 
 # [핵심 1] API 키를 프로그램 안에 숨겨서 고정합니다. (화면에는 보이지 않습니다)
 # 주의: 아래 "r8_..." 부분에 매니저님의 실제 API 키를 넣어주세요.
-API_KEY = "r8_8lf3OS1s8XPpbTgWS0Qw5PLEYm1C2DZ1EvFUI"
+API_KEY = "r8_RudIacghODtoNrnuSiX1iytogOQDRYX1B1rdP"
 
 # 1. 성별 선택
 st.subheader("1. 성별 선택")
